@@ -1,6 +1,6 @@
 # Hey there! :wave::smiley:
 
-I'm Mohil! I'm a machine learning and a deep learning enthusiast. I'm also interested in graphic designing.
+I'm Mohil! I'm a machine learning and a deep learning enthusiast who is also interested in graphic designing.
 <br>
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
