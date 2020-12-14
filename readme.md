@@ -9,6 +9,7 @@ I'm Mohil! I'm a machine learning and a deep learning enthusiast who is also int
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
