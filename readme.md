@@ -25,7 +25,6 @@ I'm Mohil! I'm a machine learning and a deep learning enthusiast who is also int
 ### You can connect me here:
  [![Gmail](https://img.shields.io/badge/-mohilpatel21-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mohilpatel21@gmail.com)
  [![Linkedin](https://img.shields.io/badge/-mohilpatel25-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohilpatel25)
- [![Instagram](https://img.shields.io/badge/-mohilpatel25-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/mohilpatel25)
  [![Instagram](https://img.shields.io/badge/-m.edit.at.ing-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/m.edit.at.ing)
  
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
