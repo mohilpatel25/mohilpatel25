@@ -1,10 +1,11 @@
 # 👋 Hello, I'm Mohil!
 
-I'm a Machine Learning engineer passionate AI, Machine learning, Deep Learning, Cloud infrastructure and open-source projects]. I enjoy building solutions that make an impact and continuously learning new things in tech.
+I'm a Machine Learning engineer passionate AI, Machine learning, Deep Learning, Cloud infrastructure and open-source projects. I enjoy building solutions that make an impact and continuously learning new things in tech.
 
 ## 🚀 About Me
 - 💼 Working as a Machine Learning Engineer at Infocusp Innovations LLP
 - 🎓 Previously studied Computer Science at Nirma University
+- 🌱 Constantly exploring the vast world of AI/ML
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
